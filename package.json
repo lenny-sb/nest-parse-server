@@ -1,6 +1,6 @@
 {
   "name": "sb-nest-parseserver",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A parse-server module for Nest.js",
   "author": "microud",
   "license": "MIT",
