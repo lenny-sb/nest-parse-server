@@ -1,5 +1,5 @@
 {
-  "name": "nest-parse-server",
+  "name": "sb-nest-parseserver",
   "version": "2.0.1",
   "description": "A parse-server module for Nest.js",
   "author": "microud",
@@ -7,7 +7,7 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/heavyii/nest-parse-server"
+    "url": "https://github.com/lenny-sb/nest-parse-server"
   },
   "keywords": [
     "nest-parse-server",
